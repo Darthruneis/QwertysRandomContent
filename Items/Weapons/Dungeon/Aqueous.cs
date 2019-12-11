@@ -28,7 +28,7 @@ namespace QwertysRandomContent.Items.Weapons.Dungeon
 			item.shootSpeed =12f;
             item.useTime = 100;
 			
-			item.maxStack = 1;
+			item.maxStack = 5;
 			
 			
 		}
